@@ -1,3 +1,5 @@
+# This repository has been archived.
+
 logrotate Cookbook
 ==================
 [![Build Status](https://secure.travis-ci.org/stevendanna/logrotate.png?branch=master)](http://travis-ci.org/stevendanna/logrotate)
